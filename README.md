@@ -1,3 +1,3 @@
 # web-hooked
 
-Push event
+Push event for a paused pipeline
